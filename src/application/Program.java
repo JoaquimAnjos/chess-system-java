@@ -22,6 +22,7 @@ public class Program {
         
         ChessMatch chessMatch = new ChessMatch();
         UI.printBoard(chessMatch.getPieces());
+//        System.out.println((char)('a'-1));
         
     }
     
